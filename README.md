@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm dhana</h1>
 
-<p align="left"> <a href="https://twitter.com/ds_98" target="blank"><img src="https://img.shields.io/twitter/follow/dhanar98logo=twitter&style=for-the-badge" alt="dhanar98" /></a> </p>
+<p align="left"> <a href="https://twitter.com/dhanar98" target="blank"><img src="https://img.shields.io/twitter/follow/dhanar98logo=twitter&style=for-the-badge" alt="dhanar98" /></a> </p>
 
 - 🌱 I’m currently learning **Ruby on Rails**
 
