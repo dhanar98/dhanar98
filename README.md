@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Ruby on Rails**
 
-- 📫 How to reach me **dhanasekarravi98@gmail.com**
+- 📫 How to reach me [![Gmail](https://img.shields.io/badge/gmail-e37400?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhanasekarravi98@gmail.com)
 
 
 ## 🔗 Connect With Me:
