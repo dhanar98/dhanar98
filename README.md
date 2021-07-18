@@ -7,7 +7,7 @@
 
 ## 📱 Connect With Me:
 [![Gmail](https://img.shields.io/badge/gmail-e37400?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhanasekarravi98@gmail.com)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/dhanasekaran-r)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/dhanar98)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/dhanar98)
 [![codepen](https://img.shields.io/badge/codepen-fadd01?style=for-the-badge&logo=codepen&logoColor=black)](https://twitter.com/dhanar98)
 
