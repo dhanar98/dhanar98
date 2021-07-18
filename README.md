@@ -23,7 +23,7 @@
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=dhanar98&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
 
-<p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=dhanar98&" alt="dhanar98" /></a></p>
+<p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=dhanar98&theme=dark"  width="350" alt="dhanar98" /></a></p>
 
 
 ### Watch my contribution graph get eaten by the snake
