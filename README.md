@@ -5,7 +5,7 @@
 - ⚡ My goal for 2021 is to keep pushing forward and help others do the same.
 - 📌 Checkout my pinned repositories for some work I am very proud of.
 
-##📱 Connect With Me:
+## 📱 Connect With Me:
 [![Gmail](https://img.shields.io/badge/gmail-e37400?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhanasekarravi98@gmail.com)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/dhanasekaran-r)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/dhanar98)
