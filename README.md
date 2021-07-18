@@ -2,6 +2,8 @@
 
 
 - 🌱 I’m currently learning **Ruby on Rails**
+- ⚡ My goal for 2021 is to keep pushing forward and help others do the same.
+- 📌 Checkout my pinned repositories for some work I am very proud of.
 
 ## 🔗 Connect With Me:
 [![Gmail](https://img.shields.io/badge/gmail-e37400?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhanasekarravi98@gmail.com)
