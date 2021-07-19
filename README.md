@@ -1,4 +1,4 @@
-<h1 align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi+%F0%9F%91%8B%2C+I'm+dhana)](https://git.io/typing-svg)</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi+%F0%9F%91%8B%2C+I'm+dhana)](https://git.io/typing-svg)
 
 
 - 🌱 I’m currently learning **Ruby on Rails**
