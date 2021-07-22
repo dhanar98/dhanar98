@@ -65,6 +65,10 @@
 ### Watch my contribution graph get eaten by the snake
 ![snake gif](https://github.com/dhanar98/dhanar98/blob/output/github-contribution-grid-snake.gif)
 
+## 📝 My Medium Articles:
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@dhanar98/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@dhanar98/0" alt="Recent Article 0"> 
+
+
 
 <!---
 dhanar98/dhanar98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
