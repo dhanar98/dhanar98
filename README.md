@@ -11,6 +11,9 @@
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/dhanar98)
 [![codepen](https://img.shields.io/badge/codepen-fadd01?style=for-the-badge&logo=codepen&logoColor=black)](https://codepen.io/dhanar98)
 
+## 🌐 My Personal Blog
+[![Hashnode](https://img.shields.io/badge/DHANAR98-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://dhanar98.hashnode.dev/)
+
 
 ## 🔖 Languages:
 [![html5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3schools.com/html/)
