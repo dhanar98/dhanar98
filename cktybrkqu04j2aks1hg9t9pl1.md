@@ -291,8 +291,6 @@ Additionally, we need to add a command in the settings.json file VisualStudio co
 
 CSS class name completion for the HTML class attribute based on the definitions found in your workspace.
 
-![**IntelliSense for CSS class names in HTML VS Code Extension Preview**](https://cdn.hashnode.com/res/hashnode/image/upload/v1632420098175/3UNy2neIn.gif)
-
 
 [![IntelliSenseforCSSclass](https://img.shields.io/badge/IntelliSense_for_CSS_class_EXTENSION-fff?style=for-the-badge&logo=css3&logoColor=1572B6)](https://marketplace.visualstudio.com/items?itemName=Zignd.html-css-class-completion)
 
