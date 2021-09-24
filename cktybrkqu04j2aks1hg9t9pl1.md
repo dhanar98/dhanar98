@@ -1,4 +1,4 @@
-## Top Most Best VSCode (Visual Studio Code) Extensions for Developers
+## Top Most Best 28 VSCode (Visual Studio Code) Extensions for Developers
 
 **Top Most VSCode (Visual Studio Code) Extensions for Developers**
 
