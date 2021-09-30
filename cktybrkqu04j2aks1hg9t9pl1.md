@@ -2,7 +2,7 @@
 
 **Top Most VSCode (Visual Studio Code) Extensions for Developers**
 
-[**Visual Studio Code** ](https://code.visualstudio.com/Download)is the most popular IDE in Web development. 
+[**Visual Studio Code** ](https://code.visualstudio.com/Download)is the most popular Code Editor in Web development. 
 
 %[https://code.visualstudio.com/Download]
 
