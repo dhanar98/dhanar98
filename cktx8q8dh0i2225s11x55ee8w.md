@@ -97,4 +97,5 @@ If this article really saves your time like the post.
 
 **Reference Link:**
 Bootstrap-Icons:
-[*Bootstrap Icons*](https://icons.getbootstrap.com/)
+
+%[https://icons.getbootstrap.com/]
