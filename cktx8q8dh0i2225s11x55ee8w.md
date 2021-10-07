@@ -78,7 +78,10 @@ Finally, we install Bootstrap-Icons both methods.
 
 I push all the code in the GitHub repository
 Repository Link[with two branches for both methods]
-for more details read the README.md file in my repo [**GitHub - dhanar98/bootstrap-icon-with-next.js**](https://github.com/dhanar98/bootstrap-icon-with-nextjs)
+for more details read the README.md file in my repo =>
+
+
+%[https://github.com/dhanar98/bootstrap-icon-with-nextjs]
 
 ```
 💡Protip:
@@ -94,4 +97,5 @@ If this article really saves your time like the post.
 
 **Reference Link:**
 Bootstrap-Icons:
-[*Bootstrap Icons*](https://icons.getbootstrap.com/)
+
+%[https://icons.getbootstrap.com/]
