@@ -1,4 +1,4 @@
-## Working with Github Basic Commands in Visual Studio Code - PART-1
+## Working with GitHub Basic Commands in Visual Studio Code - PART-1
 
 In this article, we are going to see GitHub basic commands in Visual studio code. Before going to that first we need to know the answers to these questions
 
