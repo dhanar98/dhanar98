@@ -112,10 +112,10 @@ E.X: git branch new-branch
 ```
 These Basic 5 Github commands using VSCode definitely help everyone. I Hope!!!
 In **PART-2** we see another 5 commands using VSCode.
-Follow and Support.💜
+**Follow and Support.**💜
 
 
-
+![randalyn-hill-.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1635018910634/_A021BfwJ.jpeg)
 
 
 
