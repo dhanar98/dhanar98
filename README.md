@@ -67,8 +67,9 @@
 ### Watch my contribution graph get eaten by the snake
 ![snake gif](https://github.com/dhanar98/dhanar98/blob/output/github-contribution-grid-snake.gif)
  
- 
-<a href="https://app.daily.dev/dhanar98"><img src="https://api.daily.dev/devcards/e51ef86818a14422b40ab9cd3dd871ce.png?r=926" width="400" alt="Dhanasekaran Ravichandran's Dev Card"/></a>
+ ## My Latest Blog Posts 👇
+<!-- HASHNODE_BLOG:START -->
+<!-- HASHNODE_BLOG:END -->
 
 
 <!---
