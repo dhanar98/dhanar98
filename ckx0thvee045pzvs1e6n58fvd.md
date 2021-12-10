@@ -233,6 +233,9 @@ php -m
 #Check Phalcon is installed or not
 php -m | grep phalcon
 ```
+
+> Phalcon Successfully configured with apache
+
 **References ⬇️**
 
 [![Phalcon](https://img.shields.io/badge/Phalcon-Installation-ffd200?style=for-the-badge&logo=falcon&logoColor=green)](https://docs.phalcon.io/4.0/en/installation)
