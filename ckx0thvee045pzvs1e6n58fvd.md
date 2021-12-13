@@ -141,6 +141,14 @@ Now we need to install PHP 7.4 version for the support of Phalcon-4.1.2v. (Stabl
 **Step 1: Install PHP-7.4 Version and Modules**
 
 ```bash
+sudo apt update && sudo apt upgrade
+
+sudo apt install software-properties-common
+
+sudo add-apt-repository ppa:ondrej/php
+
+sudo apt update
+
 sudo apt install -y php7.4
 ```
 ```bash
