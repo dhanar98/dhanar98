@@ -92,9 +92,15 @@ Reference Links:
 
 Read More About **Sitelinks-Searchbox** ⬇️
 
- [![SitelinksSearchbox](https://img.shields.io/badge/Sitelinks_Searchbox-ffd200?style=for-the-badge&logo=googlesearchconsole&logoColor=458CF5)](https://github.com/garmeeh/next-seo)
+ [![SitelinksSearchbox](https://img.shields.io/badge/Sitelinks_Searchbox-ffd200?style=for-the-badge&logo=googlesearchconsole&logoColor=458CF5)](https://developers.google.com/search/docs/advanced/structured-data/sitelinks-searchbox)
 
 I hope this article is helpful to all of you. follow and support 💜💜💜
+
+## 📱 Connect With Me:
+[![Gmail](https://img.shields.io/badge/gmail-F44336?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhanasekarravi98@gmail.com)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhanar98/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/dhanar98)
+[![Instagram](https://img.shields.io/badge/instagram-000?style=for-the-badge&logo=instagram&logoColor=ffd200)](https://www.instagram.com/dhanar.98/)
 
 
 
