@@ -10,6 +10,7 @@
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhanar98/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/dhanar98)
 [![codepen](https://img.shields.io/badge/codepen-fadd01?style=for-the-badge&logo=codepen&logoColor=black)](https://codepen.io/dhanar98)
+[![Instagram](https://img.shields.io/badge/instagram-000?style=for-the-badge&logo=instagram&logoColor=ffd200)](https://www.instagram.com/dhanar.98/)
 
 ## 🌐 My Personal Blog
 [![Hashnode](https://img.shields.io/badge/DHANAR98-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://dhanar98.hashnode.dev/)
