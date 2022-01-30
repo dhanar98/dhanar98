@@ -74,7 +74,7 @@ All these fields are required. Empty values are not allowed.
 ![faq.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1638124778285/mA1MrX-Va.png)
 
 
-### SiteLinksSearchBox
+### SiteLinks SearchBox
 A Sitelinkssearchbox is a search box view on the search result page and the user can search the content directly in the search box. 
 
 
@@ -90,9 +90,9 @@ Reference Links:
 
  [![Next-seo](https://img.shields.io/badge/Next_Seo-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://github.com/garmeeh/next-seo)
 
-Read More About **Sitelinks-Searchbox** ⬇️
+Read More About **Sitelinks Searchbox | Google Search** ⬇️
 
- [![SitelinksSearchbox](https://img.shields.io/badge/Sitelinks_Searchbox-ffd200?style=for-the-badge&logo=googlesearchconsole&logoColor=458CF5)](https://developers.google.com/search/docs/advanced/structured-data/sitelinks-searchbox)
+ [![Sitelinks Searchbox](https://img.shields.io/badge/Sitelinks_Searchbox-ffd200?style=for-the-badge&logo=googlesearchconsole&logoColor=458CF5)](https://developers.google.com/search/docs/advanced/structured-data/sitelinks-searchbox)
 
 I hope this article is helpful to all of you. follow and support 💜💜💜
 
