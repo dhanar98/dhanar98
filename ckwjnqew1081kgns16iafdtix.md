@@ -5,13 +5,13 @@ Search Console is a tool from Google that can help anyone with a website underst
 
 We are going to see 4 websites that help to solve enhancement relates issues in the search console.
 
-## Find Search Console Enhancement related issue using these 3 Websites
+## Find Search Console Enhancement related issues using these 3 Websites
 
 ### 1. AMP Test - Playground
 #### What is AMP?
 AMP is an open-source HTML framework developed by the AMP Open Source Project. It was originally created by Google as a competitor to Facebook Instant Articles and Apple News. AMP is optimized for mobile web browsing and intended to help web pages load faster.
 
-AMP Page have some features as expected google search console guidelines.
+AMP Page has some features as expected by google search console guidelines.
 
 **Major AMP Page Issues:**
 
@@ -21,7 +21,7 @@ AMP Page have some features as expected google search console guidelines.
 
 **Pros:**
 
-- Format option - Easy way to find error thrown place in the HTML document.
+- Format option - Easy way to find errors thrown place in the HTML document.
 
 
 🔗 **Link** ⬇️
@@ -82,9 +82,8 @@ Read More About Rich Results ⬇️
 
 I Hope all these 3 websites help to find your Enhancement related Issues.
 Feel free to contact me regarding any issues in your search console. I will help all of you.
-[NO 💸] 
 
-**Contact Me on : **
+**Contact Me on: **
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhanar98/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/dhanar98)
