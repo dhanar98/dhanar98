@@ -43,7 +43,7 @@ This website also helps to find the AMP page issues in both live and local.
 [![amp-playground-google](https://img.shields.io/badge/AMP-GOOGLE-34A853?style=for-the-badge&logo=AMP&logoColor=white)](https://search.google.com/test/amp)
 
 
-### 3. Rich Results Tester - Google
+### 3. Rich Results Test - Google
 
 #### What are Rich Results?
 Rich Results 
