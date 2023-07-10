@@ -1,8 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi+%F0%9F%91%8B%2C+I'm+dhana)](https://github.com/dhanar98/)
 
 
-- 🌱 I’m currently learning **Ruby on Rails and Phalcon C**
-- ⚡ My goal for 2021 is to keep pushing forward and help others do the same.
+- 🌱 I’m currently Exploring Career opportunities.
+- ⚡ My goal for 2023 is to keep pushing forward and help others do the same.
 - 📌 Checkout my pinned repositories for some work I am very proud of.
 
 ## 📱 Connect With Me:
