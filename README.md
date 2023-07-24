@@ -53,12 +53,6 @@
 [![chrome-browser](https://img.shields.io/badge/Google_chrome-0AA24C?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://www.google.com/chrome/)
 [![brave-browser](https://img.shields.io/badge/Brave-FF2B2D?style=for-the-badge&logo=Brave&logoColor=white)](https://brave.com/download/)
 
-
-### Watch my contribution graph get eaten by the snake
-![snake gif](https://github.com/dhanar98/dhanar98/blob/output/github-contribution-grid-snake.gif)
- 
-
-
 <!---
 dhanar98/dhanar98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
