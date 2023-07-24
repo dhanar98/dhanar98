@@ -27,9 +27,7 @@
 [![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 [![sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com/)
 [![reactjs](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
-[![nextjs](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
 [![jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)](https://jquery.com/)
-[![rubyonrails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)](https://guides.rubyonrails.org/)
 [![wordpress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://wordpress.com/)
 
 ## 🗃️ Databases:
@@ -54,15 +52,6 @@
 ## 🔮 BROWSERS:
 [![chrome-browser](https://img.shields.io/badge/Google_chrome-0AA24C?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://www.google.com/chrome/)
 [![brave-browser](https://img.shields.io/badge/Brave-FF2B2D?style=for-the-badge&logo=Brave&logoColor=white)](https://brave.com/download/)
-
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=dhanar98&show_icons=true&locale=en&layout=compact&theme=dark" alt="dhanar98" width="350" /></p>
-
-<p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=dhanar98&show_icons=true&count_private=true&theme=dark" width="350"></a>
-</p>
-
-<p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=dhanar98&theme=dark"  width="350" alt="dhanar98" /></a></p>
 
 
 ### Watch my contribution graph get eaten by the snake
