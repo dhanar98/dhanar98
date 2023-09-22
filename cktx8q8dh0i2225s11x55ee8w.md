@@ -1,4 +1,18 @@
-## How to add Bootstrap Icons in Next.js
+---
+title: "How to add Bootstrap Icons in Next.js"
+seoTitle: "How to add Bootstrap Icons in Next.js"
+seoDescription: "Create a Next.js App and configure bootstrap-icons 2 ways using simple commands:
+1. Install Bootstrap Icons
+2. Adding icon fonts stylesheet CDN link in Next"
+datePublished: Thu Jul 22 2021 10:42:50 GMT+0000 (Coordinated Universal Time)
+cuid: cktx8q8dh0i2225s11x55ee8w
+slug: how-to-add-bootstrap-icons-in-next-js
+canonical: https://dhanar98.medium.com/how-to-add-bootstrap-icons-in-next-js-c691a21e7e4c
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1632420012186/IzSUXOF9n.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1632421538501/1mN7Ifvob.png
+tags: bootstrap, github, bootstrap-4, reactjs, nextjs
+
+---
 
 
 ## Create next-js app:
@@ -78,7 +92,7 @@ Finally, we install Bootstrap-Icons both methods.
 
 I push all the code in the GitHub repository
 Repository Link[with two branches for both methods]
-for more details read the README.md file in my repo =>
+for more details read the ```README.md``` file in my repo =>
 
 
 %[https://github.com/dhanar98/bootstrap-icon-with-nextjs]
