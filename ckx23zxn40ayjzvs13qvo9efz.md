@@ -1,4 +1,15 @@
-## How To Configure Phalcon in Nginx Server on Ubuntu 20.04 - Complete Guide
+---
+title: "How To Configure Phalcon in Nginx Server on Ubuntu 20.04 - Complete Guide"
+seoTitle: "How to configure Phalcon in Nginx Server"
+seoDescription: "How to configure Phalcon in Nginx Server On Ubuntu 20.04, Nginx Installation setup for Phalcon"
+datePublished: Sat Dec 11 2021 17:45:46 GMT+0000 (Coordinated Universal Time)
+cuid: ckx23zxn40ayjzvs13qvo9efz
+slug: how-to-configure-phalcon-in-nginx-server
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1639232684509/r5LnOPJv6.jpeg
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1639232516269/HKtm8VKpI.jpeg
+tags: web-development, nginx, php, php7, 2articles1week
+
+---
 
 # Configure Phalcon in Nginx Server on Ubuntu 20.04
 
@@ -12,10 +23,11 @@ In this guide, you’ll learn how to install Nginx on your Ubuntu 20.04 server a
 
 **Install Nginx**
 
-Launch the Terminal by using the ```Ctrl+Alt+T``` shortcut and execute the following command:
+Launch the Terminal by using the `Ctrl+Alt+T` shortcut and execute the following command:
 
-**Step 1: Update Packages **
-```
+\*\*Step 1: Update Packages \*\*
+
+```plaintext
 sudo apt update
 ```
 
@@ -23,10 +35,11 @@ sudo apt update
 
 In the next step, we install the Nginx server. execute the below command.
 
-```
+```plaintext
 sudo apt install nginx
 ```
-###  Checking Nginx Server
+
+### Checking Nginx Server
 
 At the end of the installation process, Ubuntu 20.04 starts Nginx. The web server should already be up and running.
 
@@ -34,12 +47,11 @@ At the end of the installation process, Ubuntu 20.04 starts Nginx. The web serve
 
 Check the status to execute the below command
 
-```
+```plaintext
 sudo systemctl status nginx
 ```
 
-
-![nginx.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1639240946458/Y5AhEn7yqg.png)
+![nginx.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1639240946458/Y5AhEn7yqg.png align="left")
 
 This output shows that the service has started successfully. However, the best way to test this is to actually request a page from Nginx.
 
@@ -49,9 +61,10 @@ You can access the default Nginx landing page to confirm that the software is ru
 
 Now that you have your web server up and running, let’s review some basic management commands
 
-%[https://gist.github.com/dhanar98/b0c23b9b3f0f6f5ed568bbb2f55925f5]
+%[https://gist.github.com/dhanar98/b0c23b9b3f0f6f5ed568bbb2f55925f5] 
 
 ### INSTALL PHP AND MODULES VERSION 7.4
+
 Now we need to install PHP 7.4 version for the support of Phalcon-4.1.2v. (Stable Version)
 
 **Step 1: Install PHP-7.4 Version and Modules**
@@ -67,6 +80,7 @@ sudo apt update
 
 sudo apt install -y php7.4
 ```
+
 ```bash
 #Other Additional Packages
 sudo apt install php7.4-curl php7.4-gd php7.4-json php7.4-mbstring
@@ -79,6 +93,7 @@ sudo apt install php7.4-imagick
 
 sudo apt install php7.4-mysql php7.4-pgsql
 ```
+
 > Note: We need to PSR Module to run phalcon module.
 
 **Step 2: Install PSR Extension**
@@ -97,30 +112,36 @@ sudo a2enconf php7.4-fpm
 sudo systemctl restart nginx
 ```
 
-To Compile Phalcon Framework we need to install ```gcc``` package
+To Compile Phalcon Framework we need to install `gcc` package
+
 ```bash
 sudo apt install gcc
 ```
+
 ### INSTALL PHALCON ON UBUNTU
-Install ```phalcon``` stable ```version-4.1.2```
 
-[![Phalcon](https://img.shields.io/badge/Phalcon-4.1.2-ffd200?style=for-the-badge&logo=falcon&logoColor=green)](https://docs.phalcon.io/4.0/en/introduction)
+Install `phalcon` stable `version-4.1.2`
 
-Download ``` Phalcon-4.1.2-Stable``` Release ⬇️
-[![Phalcon](https://img.shields.io/badge/Phalcon-Download-ffd200?style=for-the-badge&logo=falcon&logoColor=green)](https://github.com/phalcon/cphalcon/archive/refs/tags/v4.1.2.zip)
+[![Phalcon](https://img.shields.io/badge/Phalcon-4.1.2-ffd200?style=for-the-badge&logo=falcon&logoColor=green align="left")](https://docs.phalcon.io/4.0/en/introduction)
 
-** Install Phalcon module to execute these commands:**
+Download `Phalcon-4.1.2-Stable` Release ⬇️
+
+[![Phalcon](https://img.shields.io/badge/Phalcon-Download-ffd200?style=for-the-badge&logo=falcon&logoColor=green align="left")](https://github.com/phalcon/cphalcon/archive/refs/tags/v4.1.2.zip)
+
+\*\* Install Phalcon module to execute these commands:\*\*
 
 Before that extract and unzip the folder and Move to Home in File Explorer.
 
-
 **Install Stable Repository Distribution**
+
 > Stable release
 
 ```bash
 curl -s https://packagecloud.io/install/repositories/phalcon/stable/script.deb.sh | sudo bash
 ```
+
 **Compile Phalcon Module**
+
 ```bash
 cd cphalcon-4.1.2/build
 sudo ./install
@@ -131,24 +152,27 @@ sudo ./install
 ```bash
 sudo systemctl restart nginx
 ```
-**Load the Phalcon Extension Web Server**
-Create a file called ```30-phalcon.ini``` in this 2 Places
+
+**Load the Phalcon Extension Web Server** Create a file called `30-phalcon.ini` in this 2 Places
 
 > ☄️ /etc/php/php7.4/fpm/conf.d/
 
 > ☄️ /etc/php/php7.4/cli/conf.d/
 
-add this content 
+add this content
+
 ```bash
 extension=phalcon.so
 ```
 
 Run this command to FPM Server Restart
+
 ```bash
 sudo service php7.4-fpm restart
 ```
 
 **Find all PHP Modules in Single Command**
+
 ```bash
 php -m
 
@@ -160,13 +184,13 @@ php -m | grep phalcon
 
 **References ⬇️**
 
-[![Phalcon](https://img.shields.io/badge/Phalcon-Installation-ffd200?style=for-the-badge&logo=falcon&logoColor=green)](https://docs.phalcon.io/4.0/en/installation)
+[![Phalcon](https://img.shields.io/badge/Phalcon-Installation-ffd200?style=for-the-badge&logo=falcon&logoColor=green align="left")](https://docs.phalcon.io/4.0/en/installation)
 
 ### Configure Phalcon Project with Nginx
 
 **The Basic Structure of Phalcon Project**
 
-```
+```plaintext
 phalcon/
   app/
     controllers/
@@ -177,28 +201,29 @@ phalcon/
     img/
     js/
     index.php
-````
-Create a project ```/var/www/``` directory.
+```
+
+Create a project `/var/www/` directory.
 
 > Example : /var/www/phalcon/
 
 Next, assign ownership of the directory with the $USER environment variable:
 
-```
+```plaintext
 sudo chown -R $USER:$USER /var/www/phalcon
 ```
 
 The permissions we need to webroot are also confirmed with this command.
 
-```
+```plaintext
 sudo chmod -R 755 /var/www/phalcon
 ```
 
 #### Create Server Block in Server
 
-To create a configuration file ```/etc/nginx/sites-available/``` in this path ⬇️
+To create a configuration file `/etc/nginx/sites-available/` in this path ⬇️
 
-%[https://gist.github.com/dhanar98/dd0c3a420411b8b810395b3eb49d9b9e]
+%[https://gist.github.com/dhanar98/dd0c3a420411b8b810395b3eb49d9b9e] 
 
 **Enable the Nginx Server**
 
@@ -206,20 +231,19 @@ To enable the file creating the link in Nginx Server.
 
 Execute this command:
 
-```
+```plaintext
 sudo ln -s /etc/nginx/sites-available/phalcon.conf  /etc/nginx/sites-enabled/
 
 sudo systemctl reload nginx
-``` 
+```
 
-> Phalcon Project Successfully configured with Nginx Server
-Now run the project in the browser
+> Phalcon Project Successfully configured with Nginx Server Now run the project in the browser
 
 **References ⬇️**
 
 🔗 - docs.w3cub.com
 
-[![Phalcon](https://img.shields.io/badge/Phalcon-Installation-ffd200?style=for-the-badge&logo=falcon&logoColor=green)](https://docs.phalcon.io/4.0/en/webserver-setup#nginx)
+[![Phalcon](https://img.shields.io/badge/Phalcon-Installation-ffd200?style=for-the-badge&logo=falcon&logoColor=green align="left")](https://docs.phalcon.io/4.0/en/webserver-setup#nginx)
 
 > Note :
 
@@ -229,11 +253,6 @@ Keep Support and Follow 💜💜💜
 
 ## 📱 Connect With Me:
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhanar98/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white align="left")](https://www.linkedin.com/in/dhanar98/)
 
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/dhanar98)
-
-
-
-
-
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white align="left")](https://twitter.com/dhanar98)
