@@ -1,4 +1,15 @@
-## Working with GitHub Basic Commands in Visual Studio Code - PART-2
+---
+title: "Working with GitHub Basic Commands in Visual Studio Code - PART-2"
+seoTitle: "Working with GitHub Basic Commands Using Branches in VS CODE"
+seoDescription: "Working with GitHub Basic Commands Using Branches in VS CODE - Push and Pull a branch, Git Stash and Apply, Delete a local branch"
+datePublished: Sun Oct 31 2021 17:35:31 GMT+0000 (Coordinated Universal Time)
+cuid: ckvfiktno0gmlbas1dd7pd3iv
+slug: working-with-github-basic-commands-in-visual-studio-code-part-2
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1635681533782/YzSQhQ7Hw.jpeg
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1635701192835/lw6cmUou3.jpeg
+tags: github, web-development, vscode, developer-tools
+
+---
 
 ## Github basic commands using visual studio code
 
