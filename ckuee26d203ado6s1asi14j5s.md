@@ -1,4 +1,15 @@
-## Common Errors in React JS Project Why It Happens?, What are the Solutions?
+---
+title: "Common Errors in React JS Project Why It Happens?, What are the Solutions?"
+seoTitle: "Most Common Errors in ReactJS Application? How to solve these Errors?"
+seoDescription: "Common Errors in React JS Project Why It Happens?,What are the Solutions? Handling ReactJS Rendering Errors.This Article Will Help you if you are a beginner"
+datePublished: Tue Oct 05 2021 18:01:34 GMT+0000 (Coordinated Universal Time)
+cuid: ckuee26d203ado6s1asi14j5s
+slug: common-errors-in-react-js-project-why-it-happens-what-are-the-solutions
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1632677949617/3ShBvln8L.jpeg
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1633456877513/BNFo0mDGu.jpeg
+tags: javascript, reactjs, javascript-framework, bugs-and-errors, reacthooks
+
+---
 
 ## Common Errors in React JS
 
