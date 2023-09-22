@@ -1,4 +1,15 @@
-## Working with GitHub Basic Commands in Visual Studio Code - PART-1
+---
+title: "Working with GitHub Basic Commands in Visual Studio Code - PART-1"
+seoTitle: "Working with Github Basic Commands in Visual Studio Code"
+seoDescription: "Working with Github Basic Commands in Visual Studio Code. How to clone a Repository, Add File,Commit Message and Create a Local branch in visual studio code"
+datePublished: Sat Oct 23 2021 19:30:07 GMT+0000 (Coordinated Universal Time)
+cuid: ckv478s7j0t41p5s1hljvawxw
+slug: working-with-github-basic-commands-in-visual-studio-code-part-1
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1635000429696/9CjTBu4RH.jpeg
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1635017178407/sPfrbH6lr.jpeg
+tags: github, opensource, git, vscode, vscode-extensions
+
+---
 
 In this article, we are going to see GitHub basic commands in Visual studio code. Before going to that first we need to know the answers to these questions
 
