@@ -1,4 +1,16 @@
-## SEO in Next.js Website using Next-Seo Plugin
+---
+title: "SEO in Next.js Website using Next-Seo Plugin"
+seoTitle: "SEO in Next.js Website using Next-Seo Plugin"
+seoDescription: "Next.js Website using Next-Seo Plugin
+for website Seo improvements and enhancements."
+datePublished: Sun Nov 28 2021 19:15:09 GMT+0000 (Coordinated Universal Time)
+cuid: ckwjmgsrm07t8gns1fo5kayc7
+slug: seo-in-nextjs-website-using-next-seo-plugin
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1638107449748/a8ICA4Jjr.jpeg
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1638125907788/jWqcDK69G.jpeg
+tags: javascript, seo, reactjs, nextjs, 2articles1week
+
+---
 
 ## What is Next-Seo?
 
