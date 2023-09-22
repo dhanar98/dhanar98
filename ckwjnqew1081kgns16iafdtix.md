@@ -1,4 +1,18 @@
-## To Find Your Search Console Enhancement related issue using these Top 3 Websites
+---
+title: "To Find Your Search Console Enhancement related issue using these Top 3 Websites"
+seoTitle: "To Find Your Search Console Enhancement related issue - Top 3 Websites"
+seoDescription: "To Find Your Search Console Enhancement related issue using these Top 3 Websites
+1. Amp Test - Playground
+2. Amp Test - Google
+3. Rich Results Tester"
+datePublished: Sun Nov 28 2021 19:50:37 GMT+0000 (Coordinated Universal Time)
+cuid: ckwjnqew1081kgns16iafdtix
+slug: to-find-your-search-console-enhancement-related-issue-using-these-top-3-websites
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1636215360448/SZtZLUmP1.jpeg
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1636211339188/VGU6bWWLb.jpeg
+tags: analytics, web-development, seo, amp, 2articles1week
+
+---
 
 ##  🔍What is Search Console? 
 Search Console is a tool from Google that can help anyone with a website understand how they are performing on Google Search, and what they can do to improve their appearance on a search to bring more relevant traffic to their websites. How the pages perform in search appearance in terms of **keywords, title, headings**
