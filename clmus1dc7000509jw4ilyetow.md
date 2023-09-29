@@ -1,6 +1,6 @@
 ---
 title: "WordPress Sitemap Error - Error on line 2 at column 6: XML declaration allowed [FIXED]"
-seoTitle: "Resolving WordPress Sitemap Error: XML Declaration Allowed - FIXED"
+seoTitle: "How To Fix WordPress Sitemap Error - XML declaration allowed -SOLUTION"
 seoDescription: "Discover how to fix the 'Error on line 2 at column 6: XML declaration allowed' issue in your WordPress sitemap. Follow step-by-step instructions to resolve"
 datePublished: Fri Sep 22 2023 15:48:55 GMT+0000 (Coordinated Universal Time)
 cuid: clmus1dc7000509jw4ilyetow
