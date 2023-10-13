@@ -25,7 +25,7 @@ In This article, We will go over the steps of Installing XAMPP and Phalcon on Yo
 
 ### INSTALL XAMPP ON WINDOWS 11
 
-**Step 1: Download XAMPP on Official Site **
+\*\*Step 1: Download XAMPP on Official Site \*\*
 
 XAMPP is an easy-to-install Apache distribution containing MariaDB, PHP, and Perl. Just download and start the installer. It's that easy.
 
@@ -35,7 +35,7 @@ Download XAMMP ⬇️
 
 [![XAMPP-Download](https://img.shields.io/badge/XAMPP_Download-E6526F.svg?style=for-the-badge&logo=Apache-Flink&logoColor=white align="left")](https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/8.1.17/xampp-windows-x64-8.1.17-0-VS16-installer.exe)
 
-**Step 2: Run the Installer **
+\*\*Step 2: Run the Installer \*\*
 
 The Downloading will take a couple of minutes after that run the downloaded installer in your system.
 
@@ -64,9 +64,9 @@ During the installation, you'll be prompted to select the components you want to
 
 To use Phalcon on Windows we need to download a DLL library. based on the xampp php version download the DLL library on phalcon GitHub release page.
 
-**Step 1: Download Phalcon DLL library **
+\*\*Step 1: Download Phalcon DLL library \*\*
 
-Find the Phalcon Library Different versions releases in the below link ⬇️
+Find the Phalcon Library's Different versions releases in the below link ⬇️
 
 [![download-phalcon-releases](https://img.shields.io/badge/phalcon-releases-ffd200.svg?style=for-the-badge&logo=falcon&logoColor=white align="left")](https://github.com/phalcon/cphalcon/releases)
 
@@ -79,16 +79,16 @@ Download Here ⬇️
 * Cut the Phalcon DLL file and paste it into the below-mentioned path
     
 * ```bash
-      C:\xampp\php\ext
+          C:\xampp\php\ext
     ```
     
 
 **Step 2: Configure PHP.ini File Load Phalcon library**
 
-* Edit the php.ini File and append at the end, and restart your webserver to load the extension.
+* Edit the php.ini File append at the end, and restart your webserver to load the extension.
     
 * ```bash
-      extension=php_phalcon.dll
+          extension=php_phalcon.dll
     ```
     
 * The PHP Info page shows this information
@@ -102,7 +102,7 @@ Download or Clone the Project from GitHub ⬇️
 
 [![download-phalcon-project](https://img.shields.io/badge/phalcon_setup-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white%22 align="left")](https://github.com/dhanar98/phalcon-skeleton-xampp)
 
-* Run the Project From Below Path ** C:\\xampp\\htdocs **
+* Run the Project From Below Path \*\* C:\\xampp\\htdocs \*\*
     
 * Do The Instructions mentioned in the README. md File.
     
@@ -122,7 +122,6 @@ PHP VERSION : 8.1.17
 PHALCON VERSION : 5.0.1
 ```
 
-
 <div data-node-type="callout">
 <div data-node-type="callout-emoji">🔗</div>
 <div data-node-type="callout-text"><strong>Reference Links :</strong></div>
@@ -131,22 +130,21 @@ PHALCON VERSION : 5.0.1
 * [install-phalcon-framework-on-windows](https://phalcon.io/en-us/download/windows)
     
 * [phalcon-vokuro-sample-application](https://github.com/niden/phalcon-vokuro/tree/master)
-
+    
 
 I hope this article is helpful to all of you. follow and support 💜💜💜💰
 
+**Updated On Oct 10, 2023:**  
+The last version of PHP 7, PHP 7.4, reached its end of life (EOL) on November 28, 2022. This means that PHP 7.4 will no longer receive security updates and could be exposed to unpatched security vulnerabilities. but it's time to embrace the future with PHP 8. The benefits in terms of performance, features, and security make it a worthwhile investment. Additionally, running the latest PHP version ensures that your web applications remain secure and up-to-date. Don't wait; start planning your migration to PHP 8 today.
 
 <div data-node-type="callout">
 <div data-node-type="callout-emoji">📱</div>
 <div data-node-type="callout-text"><strong>Connect With Me:</strong></div>
 </div>
- 
+
 <center>
 [![Gmail](https://img.shields.io/badge/gmail-F44336?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhanasekarravi98@gmail.com)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhanar98/)
 [![Instagram](https://img.shields.io/badge/instagram-000?style=for-the-badge&logo=instagram&logoColor=ffd200)](https://www.instagram.com/dhanar.98/)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366.svg?style=for-the-badge&logo=WhatsApp&logoColor=white)](https://wa.me/9025165942/?text=hi%20%2C%20ping%20you%20from%20via%20hashnode%20blog)
 </center>
-
-
-
