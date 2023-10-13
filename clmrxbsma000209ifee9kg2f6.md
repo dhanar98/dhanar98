@@ -228,6 +228,9 @@ bash script_filename.sh
 
 I hope this article is helpful to all of you. follow and support 💜💜💜💰
 
+**Updated On Oct 10, 2023:**  
+The last version of PHP 7, PHP 7.4, reached its end of life (EOL) on November 28, 2022. This means that PHP 7.4 will no longer receive security updates and could be exposed to unpatched security vulnerabilities. but it's time to embrace the future with PHP 8. The benefits in terms of performance, features, and security make it a worthwhile investment. Additionally, running the latest PHP version ensures that your web applications remain secure and up-to-date. Don't wait; start planning your migration to PHP 8 today.
+
 <div data-node-type="callout">
 <div data-node-type="callout-emoji">📱</div>
 <div data-node-type="callout-text"><strong>Connect With Me:</strong></div>
