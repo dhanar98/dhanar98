@@ -40,6 +40,7 @@
 ## 💀 SERVERS:
 ![APACHE](https://img.shields.io/badge/Apache-D22128.svg?style=for-the-badge&logo=Apache&logoColor=white)
 ![NGINX](https://img.shields.io/badge/NGINX-009639.svg?style=for-the-badge&logo=NGINX&logoColor=white)
+![Laragon](https://img.shields.io/badge/Laragon-0E83CD.svg?style=for-the-badge&logo=Laragon&logoColor=white)
 
 ## 🧬 OS:
 [![android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/)
