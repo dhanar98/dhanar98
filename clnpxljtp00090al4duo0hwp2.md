@@ -1,6 +1,6 @@
 ---
 title: "How To Install WordPress Locally In 5 Minutes - In Windows"
-seoTitle: "How To Install WordPress Locally In 5 Minutes - In Windows"
+seoTitle: "2024 - How To Install WordPress Locally In 5 Minutes - In Windows"
 seoDescription: "Learn how to effortlessly install WordPress locally on your Windows system in just 5 minutes. Our step-by-step guide ensures a quick and hassle-free setup"
 datePublished: Sat Oct 14 2023 11:05:26 GMT+0000 (Coordinated Universal Time)
 cuid: clnpxljtp00090al4duo0hwp2
