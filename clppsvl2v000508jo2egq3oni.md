@@ -1,6 +1,6 @@
 ---
 title: "Master Laravel String Functions for Seamless Blog Application Development"
-seoTitle: "2024 - Laravel Helper String Functions for Blog Development"
+seoTitle: "2024 - Laravel-10.x - String Helper Functions for Blog Development"
 seoDescription: "This insightful blog post delves into the mastery of Laravel string functions, empowering you to streamline your blog development process."
 datePublished: Sun Dec 03 2023 18:12:41 GMT+0000 (Coordinated Universal Time)
 cuid: clppsvl2v000508jo2egq3oni
