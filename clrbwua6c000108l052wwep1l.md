@@ -4,7 +4,7 @@ seoTitle: "2024 - How To Send Application Logs To Telegram In Laravel"
 datePublished: Sat Jan 13 2024 10:14:17 GMT+0000 (Coordinated Universal Time)
 cuid: clrbwua6c000108l052wwep1l
 slug: how-to-send-application-logs-to-telegram-in-laravel
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1705118768299/c8bb69b3-92a9-44a4-a635-8cb5730e6669.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1705140998613/69747291-11c2-430e-8b9e-f57df276f84d.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1705140641022/678fe30a-169b-40c0-9179-042c47eb3b7f.png
 tags: laravel, php, telegram, laraveldevelopment, laravelframework
 
