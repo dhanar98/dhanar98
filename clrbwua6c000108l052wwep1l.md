@@ -236,5 +236,3 @@ I hope this article is helpful to all of you. follow and support 💜💜💜�
 [![Instagram](https://img.shields.io/badge/instagram-000?style=for-the-badge&logo=instagram&logoColor=ffd200)](https://www.instagram.com/dhanar.98/)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366.svg?style=for-the-badge&logo=WhatsApp&logoColor=white)](https://wa.me/9025165942/?text=hi%20%2C%20ping%20you%20from%20via%20hashnode%20blog)
 </center>
-
-%\[[https://www.instagram.com/p/C2DIL0WPTTC/](https://www.instagram.com/p/C2DIL0WPTTC/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)\]
