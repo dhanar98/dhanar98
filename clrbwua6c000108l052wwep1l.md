@@ -39,7 +39,7 @@ Today's article will explore how to send application logs to a Telegram Channel 
 
 * **message (string)** - The information about the logger types.
     
-* **context** **(array)** - The message bind parameters in the logger.
+* **context(array)** - The message bind parameters in the logger.
     
 
 ## Create a Telegram Bot and Make An Admin in a Channel
@@ -139,13 +139,13 @@ The List Of Steps to create a telegram bot and make an admin channel
     TELEGRAM_CHANNEL=@laravel_app_logger
     ```
     
-* **If the channel is private get the channel id from the Telegram** `GetUpdates` **API URL.**
+* **If the channel is private get the channel id from the Telegram**`GetUpdates`**API URL.**
     
     ```yaml
     #https://api.telegram.org/bot{TELEGRAM_API_KEY}/getUpdates
     ```
     
-* **{TELEGRAM\_API\_KEY} -** <mark>In this place add the API key and open the URL new tab in the browser.</mark>
+* **{TELEGRAM\_API\_KEY} -**<mark>In this place add the API key and open the URL new tab in the browser.</mark>
     
 * In the new tab get the channel id in the JSON with Bot Integrated Channel
     
@@ -162,7 +162,7 @@ The List Of Steps to create a telegram bot and make an admin channel
     <div data-node-type="callout-text"><strong>NOTE:</strong></div>
     </div>
     
-    Before hit this endpoint <mark>send the </mark> `"hi"` <mark>message in the channel and get the channel id</mark>
+    Before hit this endpoint <mark>send the </mark> `"hi"`<mark>message in the channel and get the channel id</mark>
     
 * **If the channel id is starts with minus it is private. if it is without minus it is public or use username**
     
@@ -231,8 +231,7 @@ I hope this article is helpful to all of you. follow and support 💜💜💜�
 </div>
 
 <center>
-[![Gmail](https://img.shields.io/badge/gmail-F44336?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhanasekarravi98@gmail.com)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhanar98/)
-[![Instagram](https://img.shields.io/badge/instagram-000?style=for-the-badge&logo=instagram&logoColor=ffd200)](https://www.instagram.com/dhanar.98/)
-[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366.svg?style=for-the-badge&logo=WhatsApp&logoColor=white)](https://wa.me/9025165942/?text=hi%20%2C%20ping%20you%20from%20via%20hashnode%20blog)
+[![Gmail](https://img.shields.io/badge/gmail-F44336?style=for-the-badge&amp;logo=gmail&amp;logoColor=white)](mailto:dhanasekarravi98@gmail.com)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white)](https://www.linkedin.com/in/dhanar98/)
+[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366.svg?style=for-the-badge&amp;logo=WhatsApp&amp;logoColor=white)](https://wa.me/9025165942/?text=hi%20%2C%20ping%20you%20from%20via%20hashnode%20blog)
 </center>
