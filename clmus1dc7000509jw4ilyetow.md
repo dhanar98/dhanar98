@@ -15,7 +15,7 @@ tags: wordpress, php, seo, sitemap, wordpress-development-services
 
 Fixing WordPress sitemap XML errors can help ensure that search engines can properly crawl and index your website. XML sitemaps provide valuable information about your site's structure and content.
 
-### **Troubleshooting and Fixing WordPress Sitemap XML Errors Methods **
+### \*\*Troubleshooting and Fixing WordPress Sitemap XML Errors Methods \*\*
 
 The error **"error on line 2 at column 6: XML declaration allowed only at the start of the document"** in WordPress is usually caused by a plugin or theme function adding empty whitespace at the beginning of the sitemap. This error indicates that there is a whitespace before the XML sitemap's source code.
 
@@ -66,8 +66,7 @@ I hope this article is helpful to all of you. follow and support 💜💜💜�
 </div>
 
 <center>
-[![Gmail](https://img.shields.io/badge/gmail-F44336?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhanasekarravi98@gmail.com)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhanar98/)
-[![Instagram](https://img.shields.io/badge/instagram-000?style=for-the-badge&logo=instagram&logoColor=ffd200)](https://www.instagram.com/dhanar.98/)
-[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366.svg?style=for-the-badge&logo=WhatsApp&logoColor=white)](https://wa.me/9025165942/?text=hi%20%2C%20ping%20you%20from%20via%20hashnode%20blog)
+[![Gmail](https://img.shields.io/badge/gmail-F44336?style=for-the-badge&amp;logo=gmail&amp;logoColor=white)](mailto:dhanasekarravi98@gmail.com)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white)](https://www.linkedin.com/in/dhanar98/)
+[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366.svg?style=for-the-badge&amp;logo=WhatsApp&amp;logoColor=white)](https://wa.me/9025165942/?text=hi%20%2C%20ping%20you%20from%20via%20hashnode%20blog)
 </center>
