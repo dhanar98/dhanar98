@@ -205,7 +205,7 @@ if (!function_exists('wordsOrCharacter')) {
 }
 ```
 
-* **Blade Template:** `{!! wordsOrCharacter($post->excerpt_type, $post->content, 18, '###') !!}`
+* **Blade Template:**`{!! wordsOrCharacter($post->excerpt_type, $post->content, 18, '###') !!}`
     
 
 ---
@@ -213,28 +213,28 @@ if (!function_exists('wordsOrCharacter')) {
 #### **Reading Time For the Blog Post**
 
 * ```php
-      <?php
-      # Filename : app/helpers.php
-      use Illuminate\Support\Str;
-      
-      if (!function_exists('calculateReadingTime')) {
-          function calculateReadingTime($content)
-          {
-              $word_count = Str::wordCount($content);
-              $reading_time = ceil($word_count / 200);
-      
-              if ($reading_time == 1) {
-                  $timer = " minute";
-              } else {
-                  $timer = " minutes";
-              }
-              $total_reading_time = $reading_time . $timer;
-              return $total_reading_time;
-          }
-      }
+        <?php
+        # Filename : app/helpers.php
+        use Illuminate\Support\Str;
+        
+        if (!function_exists('calculateReadingTime')) {
+            function calculateReadingTime($content)
+            {
+                $word_count = Str::wordCount($content);
+                $reading_time = ceil($word_count / 200);
+        
+                if ($reading_time == 1) {
+                    $timer = " minute";
+                } else {
+                    $timer = " minutes";
+                }
+                $total_reading_time = $reading_time . $timer;
+                return $total_reading_time;
+            }
+        }
     ```
     
-* **Blade Template:** `{!! calculateReadingTime($post->content) !!}`
+* **Blade Template:**`{!! calculateReadingTime($post->content) !!}`
     
 
 ---
@@ -275,6 +275,5 @@ I hope this article is helpful to all of you. follow and support 💜💜💜�
 <center>
 [![Gmail](https://img.shields.io/badge/gmail-F44336?style=for-the-badge&amp;logo=gmail&amp;logoColor=white)](mailto:dhanasekarravi98@gmail.com)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white)](https://www.linkedin.com/in/dhanar98/)
-[![Instagram](https://img.shields.io/badge/instagram-000?style=for-the-badge&amp;logo=instagram&amp;logoColor=ffd200)](https://www.instagram.com/dhanar.98/)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366.svg?style=for-the-badge&amp;logo=WhatsApp&amp;logoColor=white)](https://wa.me/9025165942/?text=hi%20%2C%20ping%20you%20from%20via%20hashnode%20blog)
 </center>
