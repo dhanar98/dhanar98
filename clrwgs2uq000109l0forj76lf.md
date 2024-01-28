@@ -1,6 +1,6 @@
 ---
 title: "Razorpay Payment Gateway Integration In Laravel"
-seoTitle: "2024 - Laravel 10 Razorpay Payment Gateway Integration"
+seoTitle: "2024 -Razorpay Payment Gateway Integration in  Laravel 10"
 datePublished: Sat Jan 27 2024 19:27:50 GMT+0000 (Coordinated Universal Time)
 cuid: clrwgs2uq000109l0forj76lf
 slug: razorpay-payment-gateway-integration-in-laravel
