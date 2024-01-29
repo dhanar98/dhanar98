@@ -5,8 +5,8 @@ seoDescription: "This insightful blog post delves into the mastery of Laravel st
 datePublished: Sun Dec 03 2023 18:12:41 GMT+0000 (Coordinated Universal Time)
 cuid: clppsvl2v000508jo2egq3oni
 slug: master-laravel-string-functions-for-seamless-blog-application-development
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1699504369077/58c14398-6872-48b6-81f6-cd59693e96ce.png
-ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1699508972096/ec2da9be-3312-4388-8144-dcf6748f775d.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1706499439539/8eba239f-6fec-43e2-ab27-8c0e945591c3.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1706499526655/4ff858a9-a8cd-4690-af23-1530e871cd85.png
 tags: blogging, laravel, php, laravelframework, laravel-10
 
 ---
