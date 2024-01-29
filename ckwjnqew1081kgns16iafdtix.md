@@ -8,8 +8,8 @@ seoDescription: "To Find Your Search Console Enhancement related issue using the
 datePublished: Sun Nov 28 2021 19:50:37 GMT+0000 (Coordinated Universal Time)
 cuid: ckwjnqew1081kgns16iafdtix
 slug: to-find-your-search-console-enhancement-related-issue-using-these-top-3-websites
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1636215360448/SZtZLUmP1.jpeg
-ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1636211339188/VGU6bWWLb.jpeg
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1706507787172/44642194-767b-498a-876d-6485f005683a.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1706507805719/9f70cab3-fc69-4b9f-9838-f892417d2c28.png
 tags: analytics, web-development, seo, amp, 2articles1week
 
 ---
