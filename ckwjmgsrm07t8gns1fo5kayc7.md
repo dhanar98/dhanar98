@@ -6,8 +6,8 @@ for website Seo improvements and enhancements."
 datePublished: Sun Nov 28 2021 19:15:09 GMT+0000 (Coordinated Universal Time)
 cuid: ckwjmgsrm07t8gns1fo5kayc7
 slug: seo-in-nextjs-website-using-next-seo-plugin
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1638107449748/a8ICA4Jjr.jpeg
-ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1638125907788/jWqcDK69G.jpeg
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1706506823366/3ba58e95-da3e-41d5-9b38-50bf181e8eec.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1706506846946/6a63acde-d138-4ecc-be05-5cad064ec3c6.png
 tags: javascript, seo, reactjs, nextjs, 2articles1week
 
 ---
