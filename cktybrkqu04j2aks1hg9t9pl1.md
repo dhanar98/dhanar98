@@ -5,8 +5,8 @@ seoDescription: "Top Most 28 VSCode (Visual Studio Code) Extensions for Develope
 datePublished: Fri Sep 24 2021 12:02:35 GMT+0000 (Coordinated Universal Time)
 cuid: cktybrkqu04j2aks1hg9t9pl1
 slug: top-most-best-28-vscode-visual-studio-code-extensions-for-developers
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1632484259107/9BPGhiQAE.png
-ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1632484756664/p_MQ68Eal.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1706507106328/b75d4178-3055-46ec-b464-0efefa508481.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1706507124770/d32b4d04-c66a-49e3-b0fd-f833b0bfccc8.png
 tags: web-development, ruby-on-rails, developer, vscode, vscode-extensions
 
 ---
