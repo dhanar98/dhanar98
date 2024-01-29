@@ -5,8 +5,8 @@ seoDescription: "Common Errors in React JS Project Why It Happens?,What are the 
 datePublished: Tue Oct 05 2021 18:01:34 GMT+0000 (Coordinated Universal Time)
 cuid: ckuee26d203ado6s1asi14j5s
 slug: common-errors-in-react-js-project-why-it-happens-what-are-the-solutions
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1632677949617/3ShBvln8L.jpeg
-ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1633456877513/BNFo0mDGu.jpeg
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1706509076434/b8d07f4e-2a87-4d51-a389-b0e8c9599136.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1706509093625/54c726fe-a4fe-45b5-87a4-b89d35f31d9f.png
 tags: javascript, reactjs, javascript-framework, bugs-and-errors, reacthooks
 
 ---
