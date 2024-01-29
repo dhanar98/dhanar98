@@ -5,8 +5,8 @@ seoDescription: "Learn how to effortlessly install WordPress locally on your Win
 datePublished: Sat Oct 14 2023 11:05:26 GMT+0000 (Coordinated Universal Time)
 cuid: clnpxljtp00090al4duo0hwp2
 slug: how-to-install-wordpress-locally-in-5-minutes-in-windows
-cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/zs98a0DtKL4/upload/29b418f654172d2642f81b0cd42226ee.jpeg
-ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1697281497132/7c2e35d0-783e-4052-93ec-6e726fa26e94.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1706500765991/97405f1a-04ed-4cc6-9be0-9ed1a15114a0.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1706500794717/0de9c1c9-c015-4a76-a249-472545d4e6e5.png
 tags: wordpress-plugins, wordpress, wordpress-development-services
 
 ---
@@ -15,7 +15,7 @@ tags: wordpress-plugins, wordpress, wordpress-development-services
 
 Hey, Devs It's True. You don't need to set up your WordPress by downloading the zip file and extracting it to run the WordPress project. By Clicking OK, Continue Create the setup is easy now.
 
-During my WordPress development, I always worked on XAMMP.but after the Laragon Installation and setup it made my all php-related projects very quick and easy.
+During my WordPress development, I always worked on XAMMP. but after the Laragon Installation and setup it made my all php-related projects very quick and easy.
 
 When it comes to the topic at hand, I'll guide you through the installation process in this section.
 
@@ -113,7 +113,7 @@ I hope this article is helpful to all of you. follow and support 💜💜💜�
 </div>
 
 <center>
-[![Gmail](https://img.shields.io/badge/gmail-F44336?style=for-the-badge&amp;logo=gmail&amp;logoColor=white)](mailto:dhanasekarravi98@gmail.com)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white)](https://www.linkedin.com/in/dhanar98/)
-[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366.svg?style=for-the-badge&amp;logo=WhatsApp&amp;logoColor=white)](https://wa.me/9025165942/?text=hi%20%2C%20ping%20you%20from%20via%20hashnode%20blog)
+[![Gmail](https://img.shields.io/badge/gmail-F44336?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhanasekarravi98@gmail.com)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhanar98/)
+[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366.svg?style=for-the-badge&logo=WhatsApp&logoColor=white)](https://wa.me/9025165942/?text=hi%20%2C%20ping%20you%20from%20via%20hashnode%20blog)
 </center>
