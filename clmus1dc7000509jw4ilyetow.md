@@ -5,8 +5,8 @@ seoDescription: "Discover how to fix the 'Error on line 2 at column 6: XML decla
 datePublished: Fri Sep 22 2023 15:48:55 GMT+0000 (Coordinated Universal Time)
 cuid: clmus1dc7000509jw4ilyetow
 slug: wordpress-sitemap-error-error-on-line-2-at-column-6-xml-declaration-allowed-fixed
-cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/-WPrNEM_6dg/upload/3f7bb6346cb36caac56cccbcfa82ddc1.jpeg
-ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1695370949292/1d39ee1d-9c83-47bd-a20c-101be0df69d9.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1706501391882/66b22c9c-aec3-43a4-b12e-7c02b156f05c.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1706501410858/19f27926-0392-4bf8-a51f-e76f105c3b2c.png
 tags: wordpress, php, seo, sitemap, wordpress-development-services
 
 ---
