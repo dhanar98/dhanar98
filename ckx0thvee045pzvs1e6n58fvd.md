@@ -5,8 +5,8 @@ seoDescription: "How To Install Phalcon PHP Framework on Ubuntu 20.04 - Complete
 datePublished: Fri Dec 10 2021 20:04:01 GMT+0000 (Coordinated Universal Time)
 cuid: ckx0thvee045pzvs1e6n58fvd
 slug: how-to-install-a-phalcon-framework-on-ubuntu
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1638713529899/bT3EheAVw.jpeg
-ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1638716860170/6v5QkgwPU.jpeg
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1706505717660/84b162ec-9d8d-4014-8673-70c0c32f8760.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1706505733209/824404c5-1381-4146-a522-2d0324295678.png
 tags: ubuntu, web-development, php, apache, 2articles1week
 
 ---
