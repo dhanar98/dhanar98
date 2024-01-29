@@ -5,8 +5,8 @@ seoDescription: "Install Phalcon on Windows 11 XAMPP: Download XAMPP, select com
 datePublished: Sun Jul 30 2023 16:25:00 GMT+0000 (Coordinated Universal Time)
 cuid: clkpnjrev000609mveol73t68
 slug: how-to-install-phalcon-php-on-xampp-for-windows-11
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1690698838561/a0e441de-ebd4-4881-a7bb-d5c9cb6d064e.jpeg
-ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1690734240092/239cea2f-05d4-4374-a2d4-3080ec09bc4f.jpeg
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1706504532074/dc7694d3-74a7-4dbc-9c5c-2fde27e883b6.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1706504556070/17b36eee-f26d-4e47-9c46-957298d6ec03.png
 tags: phalcon, php, xampp, 2articles1week, php8
 
 ---
