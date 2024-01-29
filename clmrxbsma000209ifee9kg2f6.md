@@ -3,8 +3,8 @@ title: "Install Phalcon Framework And PHP-Nginx Using Bash Script - UBUNTU"
 datePublished: Wed Sep 20 2023 15:53:41 GMT+0000 (Coordinated Universal Time)
 cuid: clmrxbsma000209ifee9kg2f6
 slug: install-phalcon-framework-and-php-nginx-using-bash-script-ubuntu
-cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/9WnjxT1NCoY/upload/ab1ecb111a0f1a790d9bd766ba185a26.jpeg
-ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1695225211121/72749f19-baf0-4628-b6fd-8d00927619f7.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1706504033060/532142c6-40fd-4980-a761-3ddc9313d212.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1706504054280/f6bfed9a-d82e-4bfa-9ab1-57249a0d550a.png
 tags: phalcon, php7, bash-script
 
 ---
