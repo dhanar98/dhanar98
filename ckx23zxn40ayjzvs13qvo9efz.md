@@ -5,8 +5,8 @@ seoDescription: "How to configure Phalcon in Nginx Server On Ubuntu 20.04, Nginx
 datePublished: Sat Dec 11 2021 17:45:46 GMT+0000 (Coordinated Universal Time)
 cuid: ckx23zxn40ayjzvs13qvo9efz
 slug: how-to-configure-phalcon-in-nginx-server
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1639232684509/r5LnOPJv6.jpeg
-ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1639232516269/HKtm8VKpI.jpeg
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1706505248199/7bf5b74b-d53c-4ab6-96e8-78400e6a3363.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1706505274496/088187e4-4b15-4b5e-bf3a-a6fb1a472716.png
 tags: web-development, nginx, php, php7, 2articles1week
 
 ---
