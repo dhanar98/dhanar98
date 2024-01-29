@@ -5,8 +5,8 @@ seoDescription: "Working with Github Basic Commands in Visual Studio Code. How t
 datePublished: Sat Oct 23 2021 19:30:07 GMT+0000 (Coordinated Universal Time)
 cuid: ckv478s7j0t41p5s1hljvawxw
 slug: working-with-github-basic-commands-in-visual-studio-code-part-1
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1635000429696/9CjTBu4RH.jpeg
-ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1635017178407/sPfrbH6lr.jpeg
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1706508427052/77be8113-c44f-43f6-963f-95a2951fcf94.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1706508443397/1cfde419-976b-4020-9df6-bbe545129ea4.png
 tags: github, opensource, git, vscode, vscode-extensions
 
 ---
