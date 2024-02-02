@@ -2,7 +2,7 @@
 
 
 - 🌱 I’m currently Exploring Career opportunities.
-- ⚡ My goal for 2023 is to keep pushing forward and help others do the same.
+- ⚡ My goal for 2024 is to keep pushing forward and help others do the same.
 - 📌 Checkout my pinned repositories for some work I am very proud of.
 
 ## 📱 Connect With Me:
@@ -65,6 +65,11 @@
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600.svg?style=for-the-badge&logo=RabbitMQ&logoColor=white)
 ![AMAZON-S3](https://img.shields.io/badge/Amazon%20S3-569A31.svg?style=for-the-badge&logo=Amazon-S3&logoColor=white)
 ![ElasticSearch](https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+
+## My Latest Blog Posts 👇
+
+<!-- HASHNODE_BLOG:START -->
+<!-- HASHNODE_BLOG:END -->
 
 <!---
 dhanar98/dhanar98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
