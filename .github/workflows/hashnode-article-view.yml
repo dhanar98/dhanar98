@@ -18,6 +18,6 @@ jobs:
         with:
           HASHNODE_PUBLICATION_NAME: 'dhanar98.hashnode.dev'
           POST_COUNT: 5
-          FORMAT: 'card'
+          FORMAT: 'stacked'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
