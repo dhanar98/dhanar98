@@ -12,7 +12,7 @@ tags: laravel, payment-gateway, razorpay, laraveldevelopment
 
 # Razorpay Payment Gateway Integration In Laravel
 
-In this tutorial, you will learn how to integrate RazorPay in your Laravel 10 application. Read on to know the essential steps for the integration. This article will cover the all the all the cases involved in the payment feature.
+In this tutorial, you will learn how to integrate RazorPay in your Laravel 10 application. Read on to know the essential steps for the integration. This article will cover the all the cases involved in the payment feature.
 
 ## **Steps to Integrate Razorpay Payment Gateway In Laravel**
 
@@ -426,7 +426,7 @@ Share your colleague or friend who is struggling to integrate razorpay and suppo
 </div>
 
 <center>
-[![Gmail](https://img.shields.io/badge/gmail-F44336?style=for-the-badge&amp;logo=gmail&amp;logoColor=white)](mailto:dhanasekarravi98@gmail.com)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white)](https://www.linkedin.com/in/dhanar98/)
-[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366.svg?style=for-the-badge&amp;logo=WhatsApp&amp;logoColor=white)](https://wa.me/9025165942/?text=hi%20%2C%20ping%20you%20from%20via%20hashnode%20blog)
+[![Gmail](https://img.shields.io/badge/gmail-F44336?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhanasekarravi98@gmail.com)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhanar98/)
+[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366.svg?style=for-the-badge&logo=WhatsApp&logoColor=white)](https://wa.me/9025165942/?text=hi%20%2C%20ping%20you%20from%20via%20hashnode%20blog)
 </center>
