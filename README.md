@@ -69,6 +69,10 @@
 ## My Latest Blog Posts 👇
 
 <!-- HASHNODE_BLOG:START -->
+<p align="left"><a href="https://dhanar98.hashnode.dev/best-laravel-dev-tools-for-faster-development-2024" title="Best Laravel Dev Tools For Faster Development 2024"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1712416027799/21cb43cf-39da-4224-bf3b-449b2c060432.png" alt="Best Laravel Dev Tools For Faster Development 2024" width="300px" align="left" /></a><a href="https://dhanar98.hashnode.dev/best-laravel-dev-tools-for-faster-development-2024" title="Best Laravel Dev Tools For Faster Development 2024"><strong>Best Laravel Dev Tools For Faster Development 2024</strong></a><div><strong>April 6, 2024</strong></div><br/>Development Tools and Extensions For Laravel Development
+This article explores the tools and extensions I utilize for Laravel project development.
+When it comes to Laravel-based development, our defau...</p><br/><br/>
+
 <p align="left"><a href="https://dhanar98.hashnode.dev/razorpay-payment-gateway-integration-in-laravel" title="Razorpay Payment Gateway Integration In Laravel"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1706362102640/b758ea48-742f-4b6a-ab1b-945003d997af.png" alt="Razorpay Payment Gateway Integration In Laravel" width="300px" align="left" /></a><a href="https://dhanar98.hashnode.dev/razorpay-payment-gateway-integration-in-laravel" title="Razorpay Payment Gateway Integration In Laravel"><strong>Razorpay Payment Gateway Integration In Laravel</strong></a><div><strong>January 27, 2024</strong></div><br/>Razorpay Payment Gateway Integration In Laravel
 In this tutorial, you will learn how to integrate RazorPay in your Laravel 10 application. Read on to know the essential steps for the integration. This...</p><br/><br/>
 
@@ -81,9 +85,6 @@ Laravel string functions are a powerful tool that can be used to make your blog 
 
 <p align="left"><a href="https://dhanar98.hashnode.dev/how-to-install-wordpress-locally-in-5-minutes-in-windows" title="How To Install WordPress Locally In 5 Minutes - In Windows"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1706500765991/97405f1a-04ed-4cc6-9be0-9ed1a15114a0.png" alt="How To Install WordPress Locally In 5 Minutes - In Windows" width="300px" align="left" /></a><a href="https://dhanar98.hashnode.dev/how-to-install-wordpress-locally-in-5-minutes-in-windows" title="How To Install WordPress Locally In 5 Minutes - In Windows"><strong>How To Install WordPress Locally In 5 Minutes - In Windows</strong></a><div><strong>October 14, 2023</strong></div><br/>Quick and Easy Local WordPress Installation on Windows
 Hey, Devs It's True. You don't need to set up your WordPress by downloading the zip file and extracting it to run the WordPress project. By Click...</p><br/><br/>
-
-<p align="left"><a href="https://dhanar98.hashnode.dev/wordpress-sitemap-error-error-on-line-2-at-column-6-xml-declaration-allowed-fixed" title="How To Fix WordPress Sitemap Error"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1706501391882/66b22c9c-aec3-43a4-b12e-7c02b156f05c.png" alt="How To Fix WordPress Sitemap Error" width="300px" align="left" /></a><a href="https://dhanar98.hashnode.dev/wordpress-sitemap-error-error-on-line-2-at-column-6-xml-declaration-allowed-fixed" title="How To Fix WordPress Sitemap Error"><strong>How To Fix WordPress Sitemap Error</strong></a><div><strong>September 22, 2023</strong></div><br/>How To Fix WordPress Sitemap Error - XML declaration allowed [SOLUTION]
-Fixing WordPress sitemap XML errors can help ensure that search engines can properly crawl and index your website. XML sitemaps ...</p><br/><br/>
 
 
 <!-- HASHNODE_BLOG:END -->
