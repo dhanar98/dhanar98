@@ -13,9 +13,9 @@ tags: laravel, web-development, upgrade, php8, laraveldevelopment
 
 # Laravel 5.1 to 12 Upgrade: PART 1
 
-**Upgrading one of my client's old Laravel projects can feel like untangling a decade-old web of code**—especially when jumping from Laravel 5.1 to 12. With so many breaking changes, outdated dependencies, and new architectural patterns, a direct upgrade seemed nearly impossible.
+**Upgrading one of my client's old Laravel projects can feel like untangling a decade-old web of code**—especially when jumping from Laravel 5.1 to 12. A direct upgrade seemed nearly impossible with so many breaking changes, outdated dependencies, and new architectural patterns.
 
-At first, I considered upgrading step by step through each version, but that approach would have been time-consuming and error-prone. Instead, I discovered a more efficient method that saved time and reduced the complexity of fixing a lot of errors.
+At first, I considered upgrading step by step through each version, but that approach would have been time-consuming and error-prone. Instead, I discovered a more efficient method that saved time and reduced the complexity of fixing many errors.
 
 Curious about how I pulled it off? Let’s dive into the smartest way to migrate from Laravel 5.1 to 12 without breaking everything!
 
@@ -23,15 +23,15 @@ Curious about how I pulled it off? Let’s dive into the smartest way to migrate
 
 Sticking with Laravel 5.1 is making me uncomfortable in terms of security and performance, and it’s holding the application back.
 
-#### 🔒 **Security First!**
+#### **Security First!**
 
 When considering the development of an application, security is the priority. Laravel 5.1 is **no longer supported**, meaning **zero security updates**. Running an old version is like leaving your front door wide open—upgrading keeps your app **secure and future-proof**
 
-🛠️ **Modern Development**
+**Modern Development**
 
-Compared to 5.1 to 12 - a lot of game-changing features available in version 12 - blade components, query caching, and better improvement in Eloquent features.
+Compared to 5.1 to 12 - a lot of game-changing features are available in version 12 - blade components, query caching, and better improvement in Eloquent features.
 
-#### ⚡ **PHP 8+ Compatibility**
+#### **PHP 8+ Compatibility**
 
 Laravel 5.1 runs on **PHP 5.5**, which is practically ancient. Laravel 12 takes full advantage of **PHP 8+**, bringing **better performance, type safety, and modern features**.
 
@@ -44,10 +44,9 @@ The longer you wait, the harder it gets. Upgrading in small steps (5.1 → 5.5 �
 <div data-node-type="callout-text"><strong>NOTE:</strong></div>
 </div>
 
-  
-**Many of the packages you relied on in Laravel 5.1 are now deprecated or no longer maintained. Instead of forcing outdated solutions to work, it's smarter to find modern, well-supported alternatives that align with Laravel 12’s ecosystem. Choosing the right replacements ensures better security, performance, and long-term support, saving you from future upgrade nightmares.**  
-  
-Here’s a **detailed table** outlining the prerequisites required to upgrade **Laravel 5.1 to Laravel 12** along with the necessary commands.
+**Many of the packages you relied on in Laravel 5.1 are now deprecated or no longer maintained. Instead of forcing outdated solutions to work, it's smarter to find modern, well-supported alternatives that align with Laravel 12’s ecosystem. Choosing the right replacements ensures better security, performance, and long-term support, saving you from future upgrade nightmares.**
+
+Here’s a **detailed table** outlining the prerequisites required to upgrade from **Laravel 5.1 to Laravel 12.**
 
 ---
 
@@ -64,7 +63,7 @@ Here’s a **detailed table** outlining the prerequisites required to upgrade **
 
 ---
 
-This **table ensures clarity** by listing the changes in **Laravel 5.1 vs. Laravel 12** and the corresponding **upgrade commands**. 🚀
+This **table ensures clarity** by listing the changes in **Laravel 5.1 vs. Laravel 12**.
 
 ## Steps to Upgrade from Laravel 5.1 to Laravel 12
 
@@ -106,17 +105,17 @@ After the installation in version 12, execute the command
 php artisan serve
 ```
 
-otherwise configure it in Nginx or Apache to run.
+otherwise, configure it in Nginx or Apache to run.
 
-After the Successful check, the application working proper with welcome without any errors.
+After the Successful check, the application is working properly with a welcome page without any errors.
 
-### **Step 5 : Migrate Your Old Codebase**
+### **Step 5: Migrate Your Old Codebase**
 
-🎉 **Congratulations! Your Laravel 12 Project is Live... But Hold On!** 🚀
+🎉 **Congratulations! Your Laravel 12 Project is Live... But Hold On!**
 
-You might be tempted to throw all your old files into the new project at once—**DON’T DO IT!** 🤦‍♂️
+You might be tempted to throw all your old files into the new project at once—**DON’T DO IT!**
 
-Laravel 12 has a **different directory structure**, so dumping everything in without a plan will only lead to **"White Screen of Death" or "Class Not Found" nightmares**. 😱
+Laravel 12 has a **different directory structure**, so dumping everything in without a plan will only lead to **"White Screen of Death" nightmares**.
 
 Instead, follow this **error-proof migration order** to avoid breaking the welcome page:
 
@@ -124,22 +123,22 @@ Instead, follow this **error-proof migration order** to avoid breaking the welco
     
 * **Bring in Your Controllers** - Place them inside `app/Http/Controllers/`, and don’t forget to update namespaces to `App\Http\Controllers;`
     
-* **Routes Come Next** – Laravel 5.1 had a single `routes.php` file, but Laravel 12 has `routes/web.php` and `routes/api.php`. Split them accordingly. Also, initially, comment all your routes other than welcome page route endpoint
+* **Routes Come Next** – Laravel 5.1 had a single `routes.php` file, but Laravel 12 has `routes/web.php` and `routes/api.php`. Split them accordingly. Also, initially, comment all your routes other than the welcome page route endpoint
     
 * **Migrate Your Views** – Drop your Blade templates into `resources/views/`, but watch out for deprecated Blade syntax changes!
     
 * **Config & Middleware** – Copy over necessary config files from `config/` and move your middleware into `app/Http/Middleware/`
     
 
-**Composer & Migrations** – Run `composer install`, `php artisan migrate`, and clear cache (`php artisan cache:clear`) to make sure everything is running smoothly. 🎯
+**Composer & Migrations** – Run `composer install`, `php artisan migrate`, and clear cache (`php artisan cache:clear`) to make sure everything is running smoothly.
 
 Now, refresh your browser… and BAM! **Your Laravel 12 app is alive without a single “Whoops” error!**
 
-Now the welcome page only shows need to fix the issues one by one based on version upgrade changes in version 12 every classes.
+Now, the welcome page only shows the need to fix the issues one by one based on version upgrade changes in version 12 of every class.
 
 ### Change the key in .env in Laravel for Cache Config
 
-In the upgrade process, the first change we are updating the key name for the default cache configuration
+In the upgrade process, the first change is that we are updating the key name for the default cache configuration
 
 ```yaml
 # laravel 5.1
@@ -151,19 +150,19 @@ CACHE_STORE = file
 
 This is an example of changes based on your need change the cache store management also do the changes in `cache.php` config folder.
 
-### Route Config changes in Laravel 12
+### Route Config Changes in Laravel 12
 
-* In Laravel 5.1 the routes are added `routes.php` and loaded via `RouteServiceProvider.php`  
-    but the new version only you need to do the changes version 12 requirement.
+* In Laravel 5.1, the routes are added `routes.php` and loaded via `RouteServiceProvider.php`  
+    But in the new version, you only need to do the changes for the version 12 requirement.
     
-* In Laravel 12 no more `RouteServiceProvider.php` some of the defining methods changes need to be done in your laravel version 5.1 migrated file in the `web.php`  
+* In Laravel 12, there is no more `RouteServiceProvider.php` Some of the defining method changes need to be done in your laravel version 5.1 migrated file in the `web.php`
     
 
-If your application is Web - add the routes in `web.php` , if it is api add the routes in `api.php`  
-by default `web.php` file will be in the config folder but if you need to use api.php file you may install additional route files for API routes
+If your application is Web, add the routes in `web.php` If it is API, add the routes in `api.php`  
+by default `web.php` file will be in the config folder, but if you need to use the `api.php` file, you may install additional route files for API routes
 
 ```yaml
-php artisan install:api 
+php artisan install:api
 ```
 
 load all your routes from the `bootstrap/app.php` like this
@@ -202,11 +201,11 @@ All the middleware moved `app/Http/Middleware` no artisan command is available 5
 php artisan make:middleware MiddlewareName
 ```
 
-All the middleware configured in app.php file the kernel.php is no more in the project v-12
+All the middleware is configured in the app.php file; the kernel.php is no longer in the project v-12
 
 all the middlewares configured in laravel 5.1 now need to add in the app.php those are already configured.
 
-if your custom middleware is avaiable add this in app.php file based on the need of web and api  
+If your custom middleware is available, add this in app.php file based on the need of web and api
 
 ```php
 use App\Http\Middleware\WebMiddleware;
@@ -222,7 +221,7 @@ use App\Http\Middleware\ApiMiddleware;
 })
 ```
 
-if the custom middlewares are added with alias class change it to like this format
+If the custom middlewares are added with alias class, change it to this format
 
 ```php
 use App\Http\Middleware\AliasMiddleware;
@@ -342,11 +341,11 @@ Route::get('profile', [ProfileController::class, 'index'])->name('profile');
 
 **Key Changes:**
 
-* **No more array syntax**, `name()` is used instead.  
+* **No more array syntax** `name()` is used instead.
     
 
-### **Route Model Binding Enhancements**  
-  
+### **Route Model Binding Enhancements**
+
 Laravel 5.1:
 
 Manual fetching of models was required in controllers.
@@ -369,7 +368,7 @@ Route::get('user/{user}', function (User $user) {
 
 ### Migration File Structure Changes
 
-Updating an Existing Migration files the moved files from version 5.1 need to be upgraded as using anonymous class . this will avoid naming collision
+Updating an Existing Migration files the moved files from version 5.1 need to be upgraded as using anonymous class. This will avoid a naming collision
 
 ```php
 return new class extends Migration {
@@ -389,7 +388,7 @@ return new class extends Migration {
 
 ### File System Changes (`config/filesystems.php`)
 
-Need to upgrade the default filesystem driver in `.env` and do the changes in composer.json
+Need to upgrade the default filesystem driver in `.env` and make the changes in composer.json
 
 ```yaml
 # composer.json
@@ -442,7 +441,7 @@ search all over the place `app()→envioronment()` and replace it to `config(‘
 
 ### Conclusion of Part 1: The Upgrade Journey Begins
 
-Upgrading from Laravel 5.1 to Laravel 12 might seem like a massive leap, but taking the right approach makes all the difference. Instead of struggling with step-by-step version upgrades, we took a **clean slate approach**—setting up a fresh Laravel 12 project and migrating essential parts of the old application systematically.
+Upgrading from Laravel 5.1 to Laravel 12 might seem like a massive leap, but taking the right approach makes all the difference. Instead of struggling with step-by-step version upgrades, we took a **clean slate approach**—setting up a fresh Laravel 12 project and migrating essential parts of the old application.
 
 So far, we’ve covered **why upgrading is worth it, prerequisites, project setup, and file migration strategies** to ensure a smooth transition without unexpected errors. But the journey doesn’t end here!
 
@@ -450,16 +449,15 @@ In **Part 2**, I’ll dive deeper into the **core changes** you need to tackle, 
 
 Stay tuned for the next phase of this Laravel upgrade adventure!
 
-  
-If you find any of them particularly novel or useful, feel free to share with your Laravel developer friends and colleagues, and if you feel inclined to support my work, you can do so through **BuyMeACoffee**. Your support is greatly appreciated!
+If you find any of them particularly novel or useful, feel free to share them with your Laravel developer friends and colleagues, and if you feel inclined to support my work, you can do so through **BuyMeACoffee**. Your support is greatly appreciated! ( the english grammer corrected by grammerly)
 
 ### Important Links:
 
-* **Laravel Framework Repository**: - [https://github.com/laravel/framework](https://github.com/laravel/framework)
+* **Laravel Framework Repository**: [https://github.com/laravel/framework](https://github.com/laravel/framework)
     
 * **Laravel Documentation : v5.1 -** [https://laravel.com/docs/5.1](https://laravel.com/docs/5.1)
     
-* **Laravel Documentation : v12 -** [https://laravel.com/docs/12.x](https://laravel.com/docs/12.x)  
+* **Laravel Documentation : v12 -** [https://laravel.com/docs/12.x](https://laravel.com/docs/12.x)
     
 
 <div data-node-type="callout">
@@ -468,7 +466,7 @@ If you find any of them particularly novel or useful, feel free to share with yo
 </div>
 
 <center>
-[![Gmail](https://img.shields.io/badge/gmail-F44336?style=for-the-badge&amp;logo=gmail&amp;logoColor=white)](mailto:dhanasekarravi98@gmail.com)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white)](https://www.linkedin.com/in/dhanar98/)
-[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366.svg?style=for-the-badge&amp;logo=WhatsApp&amp;logoColor=white)](https://wa.me/9025165942/?text=hi%20%2C%20ping%20you%20from%20via%20hashnode%20blog)
+[![Gmail](https://img.shields.io/badge/gmail-F44336?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhanasekarravi98@gmail.com)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhanar98/)
+[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366.svg?style=for-the-badge&logo=WhatsApp&logoColor=white)](https://wa.me/9025165942/?text=hi%20%2C%20ping%20you%20from%20via%20hashnode%20blog)
 </center>
