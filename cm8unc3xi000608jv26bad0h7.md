@@ -449,7 +449,7 @@ In **Part 2**, I’ll dive deeper into the **core changes** you need to tackle, 
 
 Stay tuned for the next phase of this Laravel upgrade adventure!
 
-If you find any of them particularly novel or useful, feel free to share them with your Laravel developer friends and colleagues, and if you feel inclined to support my work, you can do so through **BuyMeACoffee**. Your support is greatly appreciated! ( the english grammer corrected by grammerly)
+If you find any of them particularly novel or useful, feel free to share them with your Laravel developer friends and colleagues, and if you feel inclined to support my work, you can do so through **BuyMeACoffee**. Your support is greatly appreciated!
 
 ### Important Links:
 
