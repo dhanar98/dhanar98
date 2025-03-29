@@ -6,7 +6,7 @@ datePublished: Sat Mar 29 2025 20:10:50 GMT+0000 (Coordinated Universal Time)
 cuid: cm8unc3xi000608jv26bad0h7
 slug: laravel-51-to-12-upgrade-the-ultimate-step-by-step-guide-part-1
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1743263509228/8d291185-bd14-4b1c-ba17-c1d06b89541f.png
-ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1743278896386/966a9dd3-d477-4bb7-892a-c7903349ee31.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1743279822177/15d6e2e4-bb62-4f2f-86eb-0d42c4a7b346.png
 tags: laravel, web-development, upgrade, php8, laraveldevelopment
 
 ---
